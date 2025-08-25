@@ -40,7 +40,7 @@ export interface SolicitationFormData{
     politically_exposed_relative: boolean,
 }
 
-export function SolicitationForm(): JSX.Element{
+export function SolicitationForm(){
     const {clientData } = useClientSolicitationContext()
     
     const form = useForm<SolicitationFormData>({
