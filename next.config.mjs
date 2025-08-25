@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  serverExternalPackages: ['zod'],
   experimental: {
-    nextScriptWorkers: true,
-    serverComponentsExternalPackages: ['zod']
+    nextScriptWorkers: true
   }
 };
 
