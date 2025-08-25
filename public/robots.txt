@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gruposmartconsig.com.br
+
+# Sitemaps
+Sitemap: https://gruposmartconsig.com.br/sitemap.xml
