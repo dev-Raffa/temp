@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://gruposmartconsig.com.br</loc><lastmod>2025-08-25T15:36:37.582Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/atendimento</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/formulario</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/simulacao</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/simular/area-cliente</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/institucional</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/clientes/inadequados</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/brasilcard/analise/solicitacao</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/servidores/simular</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/brasilcard</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/brasilcard/analise/reprovado</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://gruposmartconsig.com.br/servidores</loc><lastmod>2025-08-25T15:36:37.583Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/institucional</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/atendimento</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/simular/area-cliente</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/formulario</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/brasilcard/analise/reprovado</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/servidores</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/brasilcard/analise/solicitacao</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/clientes/inadequados</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/simular/area-cliente/simulacao</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/brasilcard</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://gruposmartconsig.com.br/servidores/simular</loc><lastmod>2025-08-25T15:48:03.635Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
